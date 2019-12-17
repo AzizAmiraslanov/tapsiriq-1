@@ -1,0 +1,38 @@
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.left {
+margin-left: 20%;
+border-radius: 2%;
+    margin-top: 5%;
+   
+    
+    float: left;
+    width: 30%;
+    height: 80%;
+    background-color: rgb(218, 194, 194);
+}
+
+
+.ortaliq {
+    padding-top: 300px;
+
+    
+}
+
+.right {
+    margin-right: 20%;
+    border-radius: 2%;
+    margin-top: 5%;
+    
+    float: left;
+     width: 30%;
+     height: 80%;
+    background-color: black;
+}
